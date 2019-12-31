@@ -1,2 +1,2 @@
-# L-T_NXT
+# L&T_NXT
 Internship
